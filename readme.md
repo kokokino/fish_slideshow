@@ -1,6 +1,8 @@
 # Source
 https://github.com/kokokino/fish_slideshow
 
+# Video
+https://youtu.be/EuDlDiT0Ego 
 [![Fish API Demo](https://i.imgur.com/O56g4vH.jpeg)](https://youtu.be/EuDlDiT0Ego "Fish API Demo")
 
 # Summary
